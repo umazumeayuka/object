@@ -1,3 +1,7 @@
+package Car_and_Taxi;
+
+import Car_and_Taxi.Car;
+
 public class Ex02 {
     public static void main(String[] args) {
          Car estima = new Car(); //オブジェクトの生成　エスティマとして生成

@@ -1,4 +1,4 @@
-package sample.pkg1;
+
 public class Car2 {
     int speed;
     String name;

@@ -1,11 +1,11 @@
 package sample.ennsyuu6;
 
 public class Calculation {
-    int addition;
-    int subtraction;
-    int multiplication;
-    int division;
-    int remainder;
+    // int addition;      以下の内容は必要ない
+    //int subtraction;
+    //int multiplication;
+    //int division;
+    //int remainder;
 
     static int addition(int num1,int num2){
         int ans =num1+num2;

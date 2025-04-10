@@ -1,3 +1,5 @@
+package Car_and_Taxi;
+//設計図↓　mainでオブジェクトを作成するための設計図
 public class Car {
     int speed; //属性の設定
     String name; //属性の設定
@@ -16,9 +18,9 @@ public class Car {
 
  }
    //演習３の追加 
-    Car(){}
+    Car() {}//引数なしのコンストラクタ
 
-    Car(int speed,String name,int gasoline){
+    Car(int speed,String name,int gasoline){//引数ありのコンストラクタ
         this.speed = speed;
         this. name = name;
         this.gasoline = gasoline;

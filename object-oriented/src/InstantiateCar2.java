@@ -1,5 +1,3 @@
-import sample.pkg1.Car2;
-
 public class InstantiateCar2 {
     public static void main(String[] args) {
         Car2 car = new Car2(0,"エスティマ");
